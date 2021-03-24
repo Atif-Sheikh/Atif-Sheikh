@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Atif-Sheikh - Full Stack JS Developer</h1>
+  <h1>Muhammad Atif - Full Stack JS Developer</h1>
 </div>
 
 - 🔥 JavaScript Enthusiast
