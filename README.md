@@ -1,5 +1,7 @@
-# 💫 About Me:
-🔭 Front-End Developer<br> 🌱 I’m currently learning advanced Ruby<br>⚡ Fun fact: I just love learning new things<br>💬 Chat with me: @Muhammad-Atif
+# Hey 👋, I'm Muhammad Atif!  
+
+## 💫 About Me:
+🔭 Front-End Developer<br> 🌱 I’m currently learning advance Ruby<br>⚡ Fun fact: I just love learning new things<br>💬 Chat with me: @Muhammad-Atif
 
 
 ## 🌐 Socials:
@@ -25,4 +27,7 @@
 ### 😂 Random Dev Meme
 
 ---
+
+![Profile views counter](https://komarev.com/ghpvc/?username=atif-sheikh&&style=flat-square)  
+
 [![](https://visitcount.itsvg.in/api?id=atif-sheikh&icon=0&color=0)](https://visitcount.itsvg.in)
