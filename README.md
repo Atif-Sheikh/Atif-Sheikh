@@ -1,42 +1,24 @@
-<div align="center">
-  <h1>Muhammad Atif - Full Stack JS Developer</h1>
-</div>
+# 💫 About Me:
+🔭 Front-End Developer<br> 🌱 I’m currently learning advanced Ruby<br>⚡ Fun fact: I just love learning new things<br>💬 Chat with me: @Muhammad-Atif
 
-- 🔥 JavaScript Enthusiast
-- 🌱 I’m currently learning advanced React
-- ⚡️ Fun fact: I just love learning new things
-- 💬 Chat with me:  [@Atif](https://www.linkedin.com/in/muhammad-atif-291794141/)
-<!-- - 👨‍💻 Working as FrontEnd Web-Developer at [Timeless](https://timeless.co/)  -->
 
-## I love working in
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/king.atif.52) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-atif-291794141/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)]([https://stackoverflow.com/users/17773913](https://stackoverflow.com/users/8554975/muhammad-atif)) 
 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/wingsuitist/ecmascript-logo/master/es-ecmascript-logo.png"></code>
-<code><img height="30" src="https://www.chartjs.org/img/chartjs-logo.svg"></code>
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=atif-sheikh&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=atif-sheikh&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=atif-sheikh&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/1024px-Electron_Software_Framework_Logo.svg.png"></code>
-<code><img height="30" src="https://ionicframework.com/blog/wp-content/uploads/2015/05/cropped-logo.png"></code>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=atif-sheikh&theme=alduin&no-frame=false&no-bg=true&margin-w=4)
 
-<code><img height="30" src="https://www.clipartmax.com/png/middle/70-701332_hire-node-js-developer-node-logo.png"></code>
-<code><img height="30" src="https://seeklogo.com/images/N/nestjs-logo-09342F76C0-seeklogo.com.png"></code>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
 
-<code><img height="30" src="https://github.com/chakra-ui/chakra-ui/blob/master/logo/logomark-colored%402x.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img height="30" src="https://reactstrap.github.io/assets/logo.png"></code>
-<code><img height="30" src="https://material.io/resources/icons/static/ic_material_192px_light.svg"></code>
-<code><img height="30" src="https://seeklogo.com/images/V/vuetify-logo-3BCF73C928-seeklogo.com.png"></code>
-<code><img height="30" src="https://seeklogo.com/images/E/expo-logo-01BB2BCFC3-seeklogo.com.png"></code>
+### 😂 Random Dev Meme
 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/styled-components/styled-components.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/storybook/storybook.png"></code>
-
-![Atif's github stats](https://github-readme-stats.vercel.app/api?username=Atif-Sheikh&count_private=true&hide=contribs,prs&show_icons=true)
-
-![](https://visitor-badge.laobi.icu/badge?page_id=Atif-Sheikh)
-[![Github](https://img.shields.io/github/followers/Atif-Sheikh?label=Follow&style=social)](https://github.com/Atif-Sheikh)
+---
+[![](https://visitcount.itsvg.in/api?id=atif-sheikh&icon=0&color=0)](https://visitcount.itsvg.in)
