@@ -1,7 +1,7 @@
 # Hey 👋, I'm Muhammad Atif!  
 
 ## 💫 About Me:
-🔭 Front-End Developer<br> 🌱 I’m currently learning advance Ruby<br>⚡ Fun fact: I just love learning new things<br>💬 Chat with me: @Muhammad-Atif
+🔭 Front-End Developer<br> 🌱 I’m currently learning advanced Ruby<br>⚡ Fun fact: I just love learning new things<br>💬 Chat with me: @Muhammad-Atif
 
 
 ## 🌐 Socials:
