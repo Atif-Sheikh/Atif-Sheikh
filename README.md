@@ -28,6 +28,4 @@
 
 ---
 
-![Profile views counter](https://komarev.com/ghpvc/?username=atif-sheikh&&style=flat-square)  
-
 [![](https://visitcount.itsvg.in/api?id=atif-sheikh&icon=0&color=0)](https://visitcount.itsvg.in)
