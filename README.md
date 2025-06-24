@@ -1,7 +1,7 @@
 # Hey 👋, I'm Atif!  
 
 ## 💫 About Me:
-🔭 Front-End Developer<br> 🌱 I’m currently learning advanced Ruby<br>⚡ Fun fact: I just love learning new things<br>💬 Chat with me: @Muhammad-Atif
+🔭 Full Stack JS || Ruby Developer<br> 🌱 I’m currently learning advanced Ruby<br>⚡ Fun fact: I just love learning new things<br>💬 Chat with me: @Muhammad-Atif
 
 
 ## 🌐 Socials:
